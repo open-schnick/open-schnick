@@ -7,12 +7,6 @@
 <a href="https://github.com/open-schnick/NotEnoughWood">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=open-schnick&repo=NotEnoughWood&theme=dark" />
 </a>
-<a href="https://github.com/open-schnick/JavaLogger">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=open-schnick&repo=javalogger&theme=dark" />
-</a>    
 <a href="https://github.com/FileFighter/RestApi">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=filefighter&repo=restapi&theme=dark" />
-</a>
-<a href="https://github.com/FileFighter/ClientSetup">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=filefighter&repo=clientsetup&theme=dark" />
 </a>
