@@ -7,6 +7,9 @@
 <a href="https://github.com/open-schnick/DatadogFormattingLayer">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=open-schnick&repo=DatadogFormattingLayer&theme=dark" />
 </a>
+<a href="https://github.com/open-schnick/Smoothy">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=open-schnick&repo=Smoothy&theme=dark" />
+</a>
 <a href="https://github.com/FileFighter/RestApi">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=filefighter&repo=restapi&theme=dark" />
 </a>
